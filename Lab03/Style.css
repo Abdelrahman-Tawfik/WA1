@@ -1,0 +1,30 @@
+.container-fluid{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.bi-person-circle {
+	color: white;
+	opacity: 0.7;
+}
+
+
+
+.button-place{
+     display: flex;
+     justify-content: flex-end;
+    align-items: flex-end;
+      
+}
+
+.bi-plus-circle-fill{
+color: rgb(31, 82, 250);
+
+}
+
+  
+  .ssvg{
+      margin-right: 0.5rem;
+      margin-left: 0.5rem;
+  }

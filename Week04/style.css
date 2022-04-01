@@ -1,0 +1,13 @@
+aside{
+    background-color: blue ;
+}
+
+.colored-text{
+    color:grey;
+    font-style:italic ;
+    font-weight:bolder;
+}
+
+#margin{
+    margin-top: 2em ;
+}
